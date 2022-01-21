@@ -24,7 +24,7 @@
 <br/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuy8146&show_owner=False)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angieKang&show_owner=False)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr> 
   
